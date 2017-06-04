@@ -1,0 +1,22 @@
+name: Arena
+version: 2.0b
+main: com.archenai.arena2.ArenaMain
+author: TheKian
+description: RPG-based Arena 
+
+commands:
+    kittest:
+        usage: /<command>
+        description: Tests Arena II kits.
+    arena-start:
+        usage: /<command>
+        description: Force Arena II to start.
+    arena-enable:
+        usage: /<command>
+        description: Activate Arena II.
+    arena-disable:
+        usage: /<command>
+        description: Disable Arena II.
+    freeze-test:
+        usage: /<command>
+        description: Tests the player freezing system.
